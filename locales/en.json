@@ -1,0 +1,21 @@
+{
+    "links": {
+      "home": "Home",
+      "classes": "Classes",
+      "registration": "Registration",
+      "admin": "Admin",
+      "about": "About"    },
+    "home": {
+      "title": "Welcome",
+      "introduction": "This is an introduction in English."
+    },
+    "about": {
+      "title": "About",
+      "introduction": "This page is made to give you more informations."
+    },
+    "global": {
+        "schoolName": "Jersey Shore Chinese School",
+        "languageClass": "Language Classes",
+        "cultureClass": "Culture Classes"
+    }
+}

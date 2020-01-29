@@ -1,0 +1,19 @@
+{
+    "links": {
+      "home": "Hogar",
+      "classes": "Clases",
+      "registration": "Registro",
+      "admin": "Administración",
+      "about": "Acerca"    },
+    "home": {
+      "title": "Bienvenida",
+      "introduction": "Esta es una introducción en español."
+    },
+    "about": {
+      "title": "Acerca de",
+      "introduction": "Esta página está hecha para darle más información."
+    },
+    "global": {
+        "schoolName": "Jersey Shore escuela china"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "links": {
+      "home": "首頁",
+      "classes": "班級",
+      "registration": "註冊",
+      "admin": "管理",
+      "about": "關於"
+    },
+    "home": {
+      "title": "歡迎",
+      "introduction": "這是中文介紹"
+    },
+    "about": {
+      "title": "關於",
+      "introduction": "關於我們的"
+    },
+    "global": {
+        "schoolName": "新海中文學校",
+        "languageClass": "語文課",
+        "cultureClass": "文化課"
+    }
+  }
